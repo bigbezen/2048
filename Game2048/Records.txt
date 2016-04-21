@@ -1,0 +1,16 @@
+Idan;2048
+Matan;12000
+yuval;1234
+yona;6700
+danielle;45990
+Nir;253
+gal;12
+hila;622
+tamr;123
+yossi;9091
+tamir;626
+matanbezen;12
+dan;980
+ani;7152
+dan;3164
+tali;1016
